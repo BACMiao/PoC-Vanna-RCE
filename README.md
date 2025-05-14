@@ -55,7 +55,7 @@ Similar payloads can also be used to view sensitive information (e.g., passwords
 
 
 ### Weaknesses
-Improper Neutralization of Directives in Dynamically Evaluated Code ('Eval Injection') (CWE-95)
+CWE-94: Improper Control of Generation of Code ('Code Injection')
 
 ### Environment information
 LLM type and model name: OpenAI gpt-3.5-turbo
